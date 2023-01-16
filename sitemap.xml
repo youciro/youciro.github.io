@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ciroyt.top/manifest.json</loc>
+    
+    <lastmod>2023-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ciroyt.top/movies/index.html</loc>
     
     <lastmod>2023-01-14</lastmod>
@@ -58,7 +67,7 @@
 
   <url>
     <loc>http://ciroyt.top/</loc>
-    <lastmod>2023-01-15</lastmod>
+    <lastmod>2023-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

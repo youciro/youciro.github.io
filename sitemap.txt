@@ -1,3 +1,4 @@
+http://ciroyt.top/manifest.json
 http://ciroyt.top/movies/index.html
 http://ciroyt.top/music/index.html
 http://ciroyt.top/link/index.html
